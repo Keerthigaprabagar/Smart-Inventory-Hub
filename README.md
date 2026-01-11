@@ -68,9 +68,11 @@ Use code with caution.
 
 Navigate to http://localhost:4200 
 🔒 Security & Access
-The API is protected by JWT Bearer Authentication. Ensure you include the Authorization: Bearer <Token> header in your requests after logging in via the /api/auth/login endpoint. 
+The API is protected by JWT Bearer Authentication. Ensure you include the Authorization: Bearer <Token> header in your requests after logging in via the /api/auth/login endpoint.
+
 📄 License
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License 'LICENSE'
+
 🤝 Contributing
 Fork the project.
 Create your Feature Branch (git checkout -b feature/AmazingFeature).
