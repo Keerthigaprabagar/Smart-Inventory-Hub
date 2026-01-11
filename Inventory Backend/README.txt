@@ -1,4 +1,6 @@
-Inventory API (.NET 8) — Quick Start
+Inventory API (.NET 8) 
+
+This is the backend for my project "Smart Inventory Management System" using ASP.NET core Web API and Angular20
 
 1) Open this folder in Visual Studio 2022 (File > Open > Project/Solution > select Inventory.Api.csproj), or VS Code.
 2) Ensure SQL Server Express is installed and running. The default connection string in appsettings.json is:
