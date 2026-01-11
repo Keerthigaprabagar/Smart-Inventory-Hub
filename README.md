@@ -71,7 +71,7 @@ Navigate to http://localhost:4200
 The API is protected by JWT Bearer Authentication. Ensure you include the Authorization: Bearer <Token> header in your requests after logging in via the /api/auth/login endpoint.
 
 📄 License
-This project is licensed under the MIT License 'LICENSE'
+This project is licensed under the MIT License 'https://github.com/Keerthigaprabagar/Smart-Inventory-Hub/blob/3a27973de411a278a0037c42ddba94026dc8f7b1/LICENSE'
 
 🤝 Contributing
 Fork the project.
